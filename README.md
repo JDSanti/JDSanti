@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="top"></div>
 <p align="center">
 <a href="https://josestgo.com/"><img src="https://img.shields.io/badge/PORTFOLIO-lightgrey?style=for-the-badge&logoColor=white alt="Portfolio" /></a>&nbsp;
@@ -33,6 +31,7 @@
   </p>
 </div>
 
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
