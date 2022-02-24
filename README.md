@@ -21,10 +21,10 @@
 <a href="https://dev.to/jdsanti"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 </p>
 </div>
-
+---
 <p>I'm currently learning Python, HTML, CSS, JS and ... My goal this year is to be able to contribute to Open Source projects. I'm also starting a new blog, feel free to check it out. </p>
 <br />
-
+---
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JDSanti&theme=dark&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&layout=compact&theme=dark" width="400" />
