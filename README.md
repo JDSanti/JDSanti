@@ -18,7 +18,7 @@
 <h3 align="center">project_title</h3>
 
   <p align="center">
-    project_description
+    Welcome to my Github
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -31,7 +31,7 @@
   </p>
 </div>
 
-<p>Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
+<p>Cybersecuirty, Cloud and Python projects.</p>
 <br />
 
 ### Hi there 👋
