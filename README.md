@@ -21,7 +21,7 @@
 <a href="https://dev.to/jdsanti"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt="Dev.to" /></a>&nbsp;
 </p>
  
-<p>I'm currently working on python projects.</p>
+<p>I'm currently learning Python, HTML, CSS, JS and ... My goal this year is to be able to contribute to Open Source projects.</p>
 <br />
 
 <p align="center">
