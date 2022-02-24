@@ -9,7 +9,7 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
+<!--<br />-->
 <div align="center">
   <a href="https://github.com/JDSanti">
     <img src="Main_Logo_L.png" alt="Logo">
