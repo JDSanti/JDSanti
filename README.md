@@ -31,6 +31,9 @@
   </p>
 </div>
 
+<p>Enthusiastic Software Engineer since 2020 using ReactJS, Angular and Java Spring Boot. a11y minded. Scrum & Agile inspired.</p>
+<br />
+
 ### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
