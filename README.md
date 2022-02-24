@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JDSanti">
-    <img src="Main Logo.png" alt="Logo">
+    <img src="Main Logo_L.png" alt="Logo">
   </a>
 
 <h3 align="center">project_title</h3>
