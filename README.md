@@ -29,7 +29,9 @@ Timezone: United States/New York (EST)
 <h2 align="center">Projects</h2>
 <p align="center">
 
-**Languages and Tools:**  
+<h2 align="center">Languages and Tools</h2>
+<p align="center">
+ 
 <div align="center">
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
