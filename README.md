@@ -28,6 +28,8 @@ Timezone: United States/New York (EST)
 
 <h2 align="center">Projects</h2>
 <p align="center">
+<p>I'm currently learning Python, HTML, CSS, JS and ... My goal this year is to be able to contribute to Open Source projects. I'm also starting a new blog, feel free to check it out. </p>
+<br />
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
@@ -47,8 +49,6 @@ Timezone: United States/New York (EST)
 
 <br />
 
-<p>I'm currently learning Python, HTML, CSS, JS and ... My goal this year is to be able to contribute to Open Source projects. I'm also starting a new blog, feel free to check it out. </p>
-<br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&layout=compact&theme=dark"  width="490" />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&layout=compact&theme=dark" width="400" /> -->
