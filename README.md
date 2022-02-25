@@ -50,6 +50,6 @@ Timezone: United States/New York (EST)
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&layout=compact&theme=dark"  width="400"/>
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&layout=compact&theme=dark" width="400" /> -->
-<img src="https://github-readme-stats.vercel.app/api?username=JDSanti&theme=dark&show_icons=true" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JDSanti&theme=dark&show_icons=true" width="400" height="400"/>
 </p>
 
