@@ -24,7 +24,7 @@
 
 <h2 align="center">Projects</h2>
 <p align="center">
-<p>I'm currently learning Python, HTML, CSS, JS and Vue.JS. My goal this year is to be able to contribute to Open Source projects. I'm also starting a new blog, feel free to check it out. </p>
+<p>Python is my main programming language for scripting and automation and I'm currently learning  HTML, CSS, JS and Vue.JS. My goal this year is to be able to contribute to Open Source projects. I'm also starting a new blog, feel free to check it out. </p>
 <br />
 
 <h2 align="center">Languages and Tools</h2>
