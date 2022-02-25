@@ -19,7 +19,7 @@
 </div>
 
 <h2 align="center">About me</h2>
-<p>I'm originally from Puerto Rico 🇵🇷</p>
+<p>I'm a Cloud Engineer from Puerto Rico 🇵🇷. I mainly use Azure </p>
 
 
 <h2 align="center">Projects</h2>
