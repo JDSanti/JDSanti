@@ -19,10 +19,6 @@
 </div>
 
 <h2 align="center">About me</h2>
-<p align="center">
-Timezone: United States/New York (EST)
-</p>
-<br />
 <p>I'm originally from Puerto Rico 🇵🇷</p>
 
 
