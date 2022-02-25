@@ -48,11 +48,12 @@ Timezone: United States/New York (EST)
 <p>I'm currently learning Python, HTML, CSS, JS and ... My goal this year is to be able to contribute to Open Source projects. I'm also starting a new blog, feel free to check it out. </p>
 <br />
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JDSanti&theme=dark&show_icons=true" width="410"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&theme=dark" />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&layout=compact&theme=dark" width="400" />
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=JDSanti&theme=dark&show_icons=true" width="410"/>
 <img src="https://github-readme-stats.vercel.app/api?username=JDSanti&theme=dark&show_icons=true"/>
 </p>
