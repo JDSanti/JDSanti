@@ -49,6 +49,7 @@ Timezone: United States/New York (EST)
 <br />
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=JDSanti&theme=dark&show_icons=true" width="410"/>
+<br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&layout=compact&theme=dark" width="400" />
 </p>
 <p align="center">
