@@ -43,6 +43,8 @@ Timezone: United States/New York (EST)
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
 
+<br />
+
 <p>I'm currently learning Python, HTML, CSS, JS and ... My goal this year is to be able to contribute to Open Source projects. I'm also starting a new blog, feel free to check it out. </p>
 <br />
 <p align="center">
