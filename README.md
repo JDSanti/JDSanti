@@ -47,6 +47,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&layout=compact&theme=dark"  width="490" />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDSanti&layout=compact&theme=dark" width="400" /> -->
 <img src="https://github-readme-stats.vercel.app/api?username=JDSanti&theme=dark&show_icons=true"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JDSanti)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JDSanti&" alt="JDSanti" />
 </p>
 
