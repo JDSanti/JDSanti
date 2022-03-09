@@ -19,7 +19,7 @@
 </div>
 
 <h2 align="center">About me</h2>
-<p>I'm a developer from Puerto Rico 🇵🇷. I mainly work in Azure cloud and cybersecuirty but recently I'm picking up web-development, specifically front-end.</p>
+<p>I'm a developer from Puerto Rico 🇵🇷. I mainly work in Azure Cloud projects and cybersecurity but recently I'm picking up web-development, specifically front-end.</p>
 
 
 <h2 align="center">Projects</h2>
