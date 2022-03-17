@@ -50,4 +50,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JDSanti&&theme=dark" alt="JDSanti" />
 </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fa9a2bc8-2691-4e30-a9fd-8254b19babc5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+<img src="https://www.credly.com/badges/fa9a2bc8-2691-4e30-a9fd-8254b19babc5/public_url"  width="490" />
+</p>
