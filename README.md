@@ -51,5 +51,7 @@
 </p>
 
 <p align="center">
-<img src="https://www.credly.com/badges/fa9a2bc8-2691-4e30-a9fd-8254b19babc5/public_url"  width="490" />
+<a href="https://www.credly.com/badges/fa9a2bc8-2691-4e30-a9fd-8254b19babc5/public_url">
+  <img src="Certifications/comptia-security-ce-certification.png" alt="Security+">
+</a>
 </p>
