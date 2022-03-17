@@ -54,4 +54,19 @@
 <a href="https://www.credly.com/badges/fa9a2bc8-2691-4e30-a9fd-8254b19babc5/public_url">
   <img height="100" src="Certifications/comptia-security-ce-certification.png" alt="Security+">
 </a>
+<a href="https://www.credly.com/badges/fa9a2bc8-2691-4e30-a9fd-8254b19babc5/public_url">
+  <img height="100" src="Certifications/microsoft-certified-azure-administrator-associate.2.png" alt="Microsoft Certified Azure Admin">
+</a>
+<a href="https://www.credly.com/badges/fa9a2bc8-2691-4e30-a9fd-8254b19babc5/public_url">
+  <img height="100" src="Certifications/microsoft-certified-azure-ai-fundamentals.png" alt="Microsoft Certified Azure AI Fundamentals">
+</a>
+<a href="https://www.credly.com/badges/fa9a2bc8-2691-4e30-a9fd-8254b19babc5/public_url">
+  <img height="100" src="Certifications/microsoft-certified-azure-data-fundamentals.png" alt="Microsoft Certified Azure Data Fundamentals">
+</a>
+<a href="https://www.credly.com/badges/fa9a2bc8-2691-4e30-a9fd-8254b19babc5/public_url">
+  <img height="100" src="Certifications/microsoft-certified-azure-fundamentals.png" alt="Microsoft Certified Azure Fundamentals">
+</a>
+<a href="https://www.credly.com/badges/fa9a2bc8-2691-4e30-a9fd-8254b19babc5/public_url">
+  <img height="100" src="Certifications/microsoft-certified-security-compliance-and-identity-fundamentals.png" alt="Security Compliance and identityfundamentals">
+</a>
 </p>
